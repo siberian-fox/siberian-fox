@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @siberian-fox
+- 👀 I’m interested in Data Engineering
+- 🌱 I’m currently learning Python, Data
+- 💞️ I’m looking to collaborate on Data Analyst project
+- 📫 How to reach me vicalalai@yahoo.com
